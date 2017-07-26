@@ -3,7 +3,7 @@ py2matlab
 
 |Buildstatus| |License|
 
-.. |Buildstatus| image:: https://api.travis-ci.org/msparapa/py2matlab.svg?branch=master
+.. |Buildstatus| image:: https://travis-ci.org/msparapa/py2matlab.svg?branch=master
    :target: https://travis-ci.org/msparapa/py2matlab
 
 .. |License| image:: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
